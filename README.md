@@ -8,7 +8,7 @@ Este repositório contém material do curso sobre Expressões Regulares. As expr
 Clone este repositório para sua máquina local:
 
    ```shell
-   git clone https://github.com/camilapessoa/regex_curso.git
+   git clone https://github.com/Fuadmiguel/curso_regex.git
 ```
 ## Ferramentas
 - Node.js
